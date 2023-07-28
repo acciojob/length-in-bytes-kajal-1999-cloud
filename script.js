@@ -11,7 +11,7 @@ const byteSize = (str) => {
 		// for(let i=0; i<n ; i++) {
 		// 	count++
 		// }
-		// return count
+		return count
 		
 	}
 	
